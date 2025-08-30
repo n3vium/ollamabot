@@ -1,0 +1,8 @@
+[Bot]
+
+token = your_token
+# получите токен в @BotFather и замените your_token на тот, что предоставил BotFather
+[Api]
+
+url = your_url
+# замените your_url на http://domain.com/api/chat или http://ip/api/chat
